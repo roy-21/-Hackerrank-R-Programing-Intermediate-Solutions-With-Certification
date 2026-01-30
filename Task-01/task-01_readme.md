@@ -59,8 +59,6 @@ The program:
 - Processes data using `calculate_competitive_index()`
 - Writes output as a CSV file
 
----
 
-## ✅ Result
-The solution strictly follows all task requirements and works correctly for all provided sample test cases.
+
 
